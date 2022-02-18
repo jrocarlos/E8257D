@@ -2,7 +2,7 @@
 =============================================================================
 INSTRUMENT:            E8257D v2
 DATE:                  2020-01-14 11:47:44
-AUTHOR:                Daniel Sarmento
+AUTHOR:                Carlos Júnior
 REVISION:              2
 ADJUSTMENT THRESHOLD:  70%
 NUMBER OF TESTS:       1
