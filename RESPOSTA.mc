@@ -2,7 +2,7 @@
 =============================================================================
 INSTRUMENT:            RESPOSTAGEN
 DATE:                  2020-01-15 17:25:23
-AUTHOR:                Daniel Sarmento
+AUTHOR:                Carlos Júnior
 REVISION:
 ADJUSTMENT THRESHOLD:  70%
 NUMBER OF TESTS:       1
