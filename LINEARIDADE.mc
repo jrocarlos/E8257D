@@ -2,7 +2,7 @@
 =============================================================================
 INSTRUMENT:            LINEARIDADE GER
 DATE:                  2020-01-14 11:47:07
-AUTHOR:                Daniel Sarmento
+AUTHOR:                Carlos Júnior
 REVISION:              01
 ADJUSTMENT THRESHOLD:  70%
 NUMBER OF TESTS:       1
