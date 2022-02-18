@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8573395d-5749-441c-9ad2-ef9ec8bcc36a}</ProjectGuid>
+    <RootNamespace>E8257D_v2</RootNamespace>
+    <AssemblyName>E8257D v2</AssemblyName>
+    <Name>E8257D v2</Name>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="FREQ.mc" />
+    <Compile Include="INICIO.mc">
+      <MainProcedure>True</MainProcedure>
+    </Compile>
+    <Compile Include="LINEARIDADE.mc" />
+    <Compile Include="RESPOSTA.mc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\..\E8257D\E8257D\SETUP1.JPG" />
+  </ItemGroup>
+</Project>
