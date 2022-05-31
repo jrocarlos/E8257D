@@ -1,5 +1,5 @@
 # E8257D
-Procedure to automate Keysight/Agilent/HP E8257D signal generator calibration with Metcal software calibration
+Procedure to automate Keysight/Agilent/HP E8257D signal generator calibration with Met / Cal Fluke software calibration
 
 To use this calibration software, Fluke Corpotarion's Metcal Calibration Software is required.
 
